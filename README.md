@@ -1,6 +1,8 @@
-🌍 Conversor de Moedas
-Converta valores entre diferentes moedas com facilidade e rapidez! Nosso app suporta Real (BRL), Dólar (USD), Euro (EUR), Libra (GBP) e até Bitcoin (BTC). 🪙
-
+<h1>🌍 Conversor de Moedas</h1>
+<br>
+<h2>Converta valores entre diferentes moedas com facilidade e rapidez! Nosso app suporta Real (BRL), Dólar (USD), Euro (EUR), Libra (GBP) e até Bitcoin (BTC). 🪙
+</h2>
+<br>
 💡 Funcionalidades
 🌟 Converta valores entre Real, Dólar, Euro, Libra e Bitcoin.
 🖥️ Interface intuitiva e responsiva.
@@ -20,11 +22,12 @@ Responsividade: Design adaptado para dispositivos móveis e desktops.
 🖼️ Capturas de Tela
 Tela Principal
 
-Exemplo de Conversão
-
-Se gostou, não esqueça de deixar uma ⭐ no repositório!
-<img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina1.png?raw=true"/>
-<img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina2.png?raw=true"/>
+Exemplo de Como esta logo abaixo:
 
 
+<p align="center">
+  <img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina1.png?raw=true" alt="Tela Principal" width="65%" />
+  <img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina2.png?raw=true" alt="Exemplo de Conversão" width="65%" />
+</p>
 
+<h3 align="center">Se gostou, não esqueça de deixar uma ⭐ no repositório!</h3>
