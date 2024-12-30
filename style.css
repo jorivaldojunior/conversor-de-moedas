@@ -1,0 +1,16 @@
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: #8a51fc;
+}
+
+
+
+      body {
+        font-family: 'Roboto', sans-serif;
+        background: #8A51FC;
+      }
+      #result p {
+        color: white; /* Ajuste para o texto branco nos resultados */
+      }
+    
