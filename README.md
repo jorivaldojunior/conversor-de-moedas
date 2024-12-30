@@ -29,6 +29,6 @@ Exemplo de Como esta logo abaixo:
   <img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina1.png?raw=true" alt="Tela Principal" width="65%" />
   <img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina2.png?raw=true" alt="Exemplo de Conversão" width="65%" />
 </p>
-<h4  <a href="">>confira o deploy:</h4>
+<h4  a href="">Confira o deploy:</h4>
 
 <h3 align="center">Se gostou, não esqueça de deixar uma ⭐ no repositório!</h3>
