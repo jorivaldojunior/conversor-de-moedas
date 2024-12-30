@@ -24,6 +24,7 @@ Exemplo de Conversão
 
 Se gostou, não esqueça de deixar uma ⭐ no repositório!
 <img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina1.png?raw=true"/>
+<img src="https://github.com/jorivaldojunior/conversor-de-moedas/blob/main/assets/pagina2.png?raw=true"/>
 
 
 
